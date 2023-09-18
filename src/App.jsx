@@ -315,7 +315,7 @@ function App() {
     <div className='modal' data-visible={`${modalVisible}`} onClick={hideModal}>
       <p>我还年轻，不想踩缝纫机</p>
       <p>你领个红包吧👀</p>
-      <img src='/qrcode.jpg' />
+      <img src='/qrcode.png' />
       <p>点击任意处关闭</p>
     </div>
   )
